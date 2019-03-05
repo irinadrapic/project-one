@@ -1,0 +1,126 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Mortality and potential years of life lost, by selected causes of death and sex, three-year average, census metropolitan areas occasional (number)",13100741,102-4314,"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310074101",1;2;3;4;5;6;7,"CURRENT - a cube available to the public and that is current",Occasional,2000-01-01,2010-01-01,5
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+1,Geography,8,
+2,Sex,9,
+3,Indicators,,
+4,"Selected causes of death (ICD-10)",10,
+5,Characteristics,"4;5;6;7;14;15;16;17;18;19",
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+1,"Total, census metropolitan areas",,1,,,,
+1,"St. John's, Newfoundland and Labrador",[001],2,1,,,
+1,"Halifax, Nova Scotia",[205],3,1,,,
+1,"Moncton, New Brunswick",[305],4,1,,,
+1,"Saint John, New Brunswick",[310],5,1,,,
+1,"Saguenay, Quebec",[408],6,1,,,
+1,"Québec, Quebec",[421],7,1,,,
+1,"Sherbrooke, Quebec",[433],8,1,,,
+1,"Trois-Rivières, Quebec",[442],9,1,,,
+1,"Montréal, Quebec",[462],10,1,,,
+1,"Ottawa-Gatineau, Ontario/Quebec",[505],11,1,,,
+1,"Ottawa-Gatineau, Quebec part",[24505],12,11,,,
+1,"Ottawa-Gatineau, Ontario part",[35505],13,11,,,
+1,"Kingston, Ontario",[521],14,1,,,
+1,"Peterborough, Ontario",[529],15,1,,,
+1,"Oshawa, Ontario",[532],16,1,,,
+1,"Toronto, Ontario",[535],17,1,,,
+1,"Hamilton, Ontario",[537],18,1,,,
+1,"St. Catharines-Niagara, Ontario",[539],19,1,,,
+1,"Kitchener-Cambridge-Waterloo, Ontario",[541],20,1,,,
+1,"Brantford, Ontatio",[543],21,1,,,
+1,"Guelph, Ontario",[550],22,1,,,
+1,"London, Ontario",[555],23,1,,,
+1,"Windsor, Ontario",[559],24,1,,,
+1,"Barrie, Ontario",[568],25,1,,,
+1,"Greater Sudbury, Ontario",[580],26,1,,,
+1,"Thunder Bay, Ontario",[595],27,1,,,
+1,"Winnipeg, Manitoba",[602],28,1,,,
+1,"Regina, Saskatchewan",[705],29,1,,,
+1,"Saskatoon, Saskatchewan",[725],30,1,,,
+1,"Calgary, Alberta",[825],31,1,,,
+1,"Edmonton, Alberta",[835],32,1,,,
+1,"Kelowna, British Columbia",[915],33,1,,,
+1,"Abbotsford-Mission, British Columbia",[932],34,1,,,
+1,"Vancouver, British Columbia",[933],35,1,,,
+1,"Victoria, British Columbia",[935],36,1,,,
+2,"Both sexes",,1,,,,
+2,Males,,2,1,,,
+2,Females,,3,1,,,
+3,Mortality,,1,,,2,
+3,"Potential years of life lost",,2,,,3,
+4,"Total, all causes of death",,1,,,,
+4,"All malignant neoplasms (cancers)",,2,1,,,
+4,"Colorectal cancer",,3,2,,,
+4,"Lung cancer",,4,2,,,
+4,"Breast cancer",,5,2,,11,
+4,"Prostate cancer",,6,2,,12,
+4,"Circulatory diseases",,7,1,,,
+4,"Ischaemic heart diseases",,8,7,,,
+4,"Cerebrovascular diseases",,9,7,,,
+4,"All other circulatory diseases",,10,7,,,
+4,"Respiratory diseases (excluding infectious and parasitic diseases)",,11,1,,,
+4,"Pneumonia and influenza",,12,11,,,
+4,"Bronchitis, emphysema and asthma",,13,11,,,
+4,"All other respiratory diseases",,14,11,,,
+4,"Unintentional injuries",,15,1,,13,
+4,"Suicides and self-inflicted injuries",,16,1,,,
+4,"Human immunodeficiency virus [HIV] disease",,17,1,,,
+5,Number,,1,,,,
+5,"Low 95% confidence interval, number",,2,,,,
+5,"High 95% confidence interval, number",,3,,,,
+5,Rate,,4,,,,
+5,"Low 95% confidence interval, rate",,5,,,,
+5,"High 95% confidence interval, rate",,6,,,,
+5,"Age-standardized rate",,7,,,,
+5,"Low 95% confidence interval, age-standardized rate",,8,,,,
+5,"High 95% confidence interval, age-standardized rate",,9,,,,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period",..
+"less than the limit of detection",<LOD
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded",0s
+"data quality: excellent",A
+"data quality: very good",B
+"data quality: good",C
+"data quality: acceptable",D
+"use with caution",E
+"too unreliable to be published.",F
+"not applicable",...
+preliminary,p
+revised,r
+"suppressed to meet the confidentiality requirements of the Statistics Act",x
+terminated,t
+
+"Survey Code","Survey Name"
+3233,"Vital Statistics - Death Database"
+3604,"Annual Demographic Estimates: Canada, Provinces and Territories"
+
+"Subject Code","Subject Name"
+13,Health
+
+"Note ID",Note
+1,"Sources: Statistics Canada, Canadian Vital Statistics, Death Database and Demography Division (population estimates). The table 13-10-0741-01 is an update of table 13-10-0411-01. This is because of the adoption of the 2015 version of the Health Region Geography. For more information, consult Statistics Canada's publication ""Health Regions: Boundaries and Correspondence with Census Geography"" (catalogue number 82-402-X)."
+2,"Mortality is the death rate, which can be measured as total mortality (all causes of death combined) or by selected cause of death. All counts and rates are calculated using the total population (all age groups)."
+3,"Potential years of life lost (PYLL) is the number of years of potential life not lived when a person dies ""prematurely"", defined for this indicator as before age 75. All counts and rates in this table are calculated using the population aged 0 to 74."
+4,"Counts and rates in this table are based on three consecutive years of death data which were summed and divided by three consecutive years of population data. All rates are per 100,000 population."
+5,"Rates are age-standardized using the direct method and the 2011 Canadian Census population structure. The use of a standard population results in more meaningful rate comparisons because it adjusts for variations in population age distributions over time and across geographic areas."
+6,"Counts and rates in this table exclude: deaths of non-residents of Canada; deaths of residents of Canada whose province or territory of residence was unknown; deaths for which age of decedent was unknown."
+7,"Counts and rates in this table are based on place of residence for indicators derived from death events.  Data have been tabulated based on postal codes available for place of residence."
+8,"A census metropolitan area (CMA) is formed by one or more adjacent municipalities centred on a population centre (known as the core). A CMA must have a total population of at least 100,000 of which 50,000 or more must live in the core. The CMAs are those defined for the 2011 Census."
+9,"Missing data on sex of the deceased were imputed based on death registration number."
+10,"World Health Organization (WHO), International Statistical Classification of Diseases and Related Health Problems, Tenth Revision (ICD-10)."
+11,"Counts and rates for breast cancer (International Statistical Classification of Diseases and Related Health Problems, Tenth Revision (ICD-10) code C50) were calculated for females only."
+12,"Counts and rates for prostate cancer (International Statistical Classification of Diseases and Related Health Problems, Tenth Revision (ICD-10) code C61) were calculated for males only."
+13,"External causes of unintentional injuries include transport accidents, falls, poisoning, drowning and fires, but not complications of medical and surgical care (International Statistical Classification of Diseases and Related Health Problems, Tenth Revision (ICD-10) codes V01 to X59, Y85 to Y86)."
+14,"Confidence intervals for age-standardized rates for selected causes of death data were produced using the Spiegelman method. Source: Spiegelman, M., ""Introduction to Demography"", Revised Edition, Cambridge, Massachusetts: Harvard University Press, 1968, page 113, formula 4.29."
+15,"Confidence intervals for crude rates for selected causes of death data were produced using the Fleiss method. Source: Fleiss, JL., ""Statistical Methods for Rates and Proportions"", Second Edition, New York, Wiley and Sons, 1981."
+16,"The 95% confidence interval (CI) illustrates the degree of variability associated with a number or a rate."
+17,"Wide confidence intervals (CIs) indicate high variability, thus, these numbers or rates should be interpreted and compared with due caution."
+18,"The following standard symbols are used in this Statistics Canada table: (..) for figures not available for a specific reference period, (...) for figures not applicable."
+19,"The figures shown in the tables have been subjected to a confidentiality procedure known as controlled rounding to prevent the possibility of associating statistical data with any identifiable individual. Under this method, all figures, including totals and margins, are rounded either up or down to a multiple of 5. Controlled rounding has the advantage over other types of rounding of producing additive tables as well as offering more protection."
+
+"Correction ID","Correction Date","Correction Note"
+
