@@ -1,0 +1,224 @@
+,City,Hospitals
+0,"Alma, Quebec",1
+1,"Almonte, Ontario",1
+2,"Altona, Manitoba",1
+3,"Amqui, Quebec",1
+4,"Argyle, Manitoba",1
+5,"Austin, Quebec",1
+6,"Baie Saint Paul, Quebec",2
+7,"Baie-Comeau, Quebec",1
+8,"Baie-Saint-Paul, Quebec",1
+9,"Banff, Alberta",1
+10,"Barry's Bay, Ontario",1
+11,"Barry, Ontario",1
+12,"Beauport, Quebec",1
+13,"Beaverlodge, Alberta",1
+14,"Belleville, Ontario",1
+15,"Black Diamond, Alberta",1
+16,"Bonnyville, Alberta",3
+17,"Brandon, Manitoba",2
+18,"Brantford, Ontario",1
+19,"Brockville, Ontario",2
+20,"Brossard, Quebec",1
+21,"Buckingham, Quebec",1
+22,"Burlington, Ontario",1
+23,"Calgary, Alberta",11
+24,"Cambridge, Ontario",1
+25,"Campbell River, British Columbia",1
+26,"Campbellford, Ontario",1
+27,"Camrose, Alberta",1
+28,"Chatham, Ontario",2
+29,"Chesterfield Inlet, Territories",1
+30,"Chicoutimi, Quebec",1
+31,"Chilliwack, British Columbia",1
+32,"Claresholm, Alberta",1
+33,"Cobourg, Ontario",1
+34,"Cold Lake, Alberta",1
+35,"Comox, British Columbia",1
+36,"Coquitlam, British Columbia",1
+37,"Cornwall, Ontario",3
+38,"Cowansville, Quebec",1
+39,"Cudworth, Saskatchewan",1
+40,"D'Arcy Island, British Columbia",1
+41,"Dawson Creek, British Columbia",1
+42,"Dawson, Territories",1
+43,"Dolbeau, Quebec",1
+44,"Drummondville, Quebec",3
+45,"Edmonton, Alberta",13
+46,"Edson, Alberta",1
+47,"Esperanza, British Columbia",1
+48,"Estevan, Saskatchewan",1
+49,"Fort Simpson, Territories",1
+50,"Fort St John, British Columbia",1
+51,"Gaspé, Quebec",1
+52,"General, Alberta",1
+53,"General, British Columbia",3
+54,"General, Manitoba",1
+55,"General, Ontario",5
+56,"General, Quebec",1
+57,"General, Saskatchewan",1
+58,"General, Territories",1
+59,"Georgetown, Ontario",1
+60,"Gimli, Manitoba",1
+61,"Goderich, Ontario",1
+62,"Granby, Quebec",2
+63,"Grande Prairie, Alberta",1
+64,"Gravelbourg, Saskatchewan",1
+65,"Gravenhurst, Ontario",1
+66,"Grevenhurst, Ontario",1
+67,"Guelph, Ontario",4
+68,"Haliburton, Ontario",1
+69,"Hamilton, Ontario",14
+70,"Harrison, British Columbia",1
+71,"Havre-Saint-Pierre, Quebec",1
+72,"Hazelton, British Columbia",1
+73,"Hearst, Ontario",2
+74,"High River, Alberta",1
+75,"Hinton, Alberta",1
+76,"Hull, Quebec",2
+77,"Humboldt, Saskatchewan",1
+78,"Iles-de-la-Madeleine, Quebec",1
+79,"Ingersoll, Ontario",1
+80,"Islay, Alberta",1
+81,"Jasper, Alberta",1
+82,"Joliette, Quebec",1
+83,"Kamloops, British Columbia",4
+84,"Kelowna, British Columbia",1
+85,"Kemptville, Ontario",1
+86,"Kingston, Ontario",7
+87,"Kitchener, Ontario",4
+88,"La Pocatière, Quebec",1
+89,"LaPrairie, Quebec",1
+90,"Lamont, Alberta",3
+91,"Langley, British Columbia",1
+92,"Lethbridge, Alberta",2
+93,"Lévis, Quebec",3
+94,"London, Ontario",10
+95,"Loretteville, Quebec",1
+96,"Macklin, Saskatchewan",1
+97,"Magog, Quebec",1
+98,"Manning, Alberta",1
+99,"Matane, Quebec",1
+100,"Mattawa, Ontario",1
+101,"Medicine Hat, Alberta",2
+102,"Melfort, Saskatchewan",1
+103,"Melville, Saskatchewan",1
+104,"Mission, British Columbia",1
+105,"Mississauga, Ontario",1
+106,"Mont Tremblant, Quebec",1
+107,"Montmagny, Quebec",1
+108,"Montréal, Quebec",59
+109,"Moose Factory, Ontario",1
+110,"Moose Jaw, Saskatchewan",1
+111,"Mount Forrest, Ontario",1
+112,"Mundare, Alberta",1
+113,"Métabetchouan, Quebec",1
+114,"Nelson, British Columbia",2
+115,"New Westminster, British Columbia",4
+116,"Newmarket, Ontario",1
+117,"Niagara Falls, Ontario",2
+118,"Niagara-on-the-Lake, Ontario",1
+119,"Ninette, Manitoba",1
+120,"North Battleford, Saskatchewan",1
+121,"North Bay, Ontario",3
+122,"Oakville, Ontario",1
+123,"Orangeville, Ontario",1
+124,"Orillia, Ontario",1
+125,"Ormstown, Quebec",1
+126,"Oshawa, Ontario",1
+127,"Ottawa, Ontario",10
+128,"Owen Sound, Ontario",1
+129,"Paris, Ontario",1
+130,"Parry Sound, Ontario",1
+131,"Peel, Ontario",1
+132,"Pembroke, Ontario",1
+133,"Penetanguishene, Ontario",2
+134,"Perth, Ontario",1
+135,"Peterborough, Ontario",3
+136,"Petrolia, Ontario",1
+137,"Picton, Ontario",1
+138,"Ponoka, Alberta",1
+139,"Port Alberni, British Columbia",1
+140,"Port Coquitlam, British Columbia",1
+141,"Port Hope, Ontario",1
+142,"Port Perry, Ontario",1
+143,"Prince Albert, Saskatchewan",1
+144,"Prince Rupert, British Columbia",2
+145,"Québec, Quebec",17
+146,"Red Deer, Alberta",2
+147,"Regina, Saskatchewan",3
+148,"Renfrew, Ontario",1
+149,"Rimouski, Quebec",1
+150,"Rivière-du-Loup, Quebec",1
+151,"Rivière-Rouge, Quebec",1
+152,"Roberval, Quebec",1
+153,"Rostherm, Saskatchewan",1
+154,"Rouyn-Noranda, Quebec",3
+155,"Saint Gabriel de Brandon, Quebec",1
+156,"Saint Hyacinthe, Quebec",2
+157,"Saint-Hyacinthe, Quebec",1
+158,"Sainte-Anne-de-Bellevue, Quebec",1
+159,"Salt Spring Island, British Columbia",1
+160,"Sarnia, Ontario",1
+161,"Saskatoon, Saskatchewan",6
+162,"Sault Ste. Marie, Ontario",3
+163,"Seaforth, Ontario",1
+164,"Selkirk, Manitoba",1
+165,"Sept-Isles, Quebec",1
+166,"Shelburne, Ontario",1
+167,"Sherbrooke, Quebec",8
+168,"Simcoe, Ontario",1
+169,"Smiths Falls, Ontario",1
+170,"Souris, Manitoba",1
+171,"Southampton, Ontario",1
+172,"Squamish, British Columbia",1
+173,"St Boniface, Manitoba",3
+174,"St Catharines, Ontario",4
+175,"St Marys, Ontario",1
+176,"St Thomas, Ontario",2
+177,"St-Ferdinand, Quebec",1
+178,"St-Jean-sur-Richelieu, Quebec",1
+179,"St-Jérôme, Quebec",1
+180,"Ste Rose du Lac, Manitoba",1
+181,"Steinbach, Manitoba",2
+182,"Stonewall, Manitoba",1
+183,"Stratford, Ontario",1
+184,"Strathroy, Ontario",1
+185,"Sturgeon Falls, Ontario",1
+186,"Sudbury, Ontario",3
+187,"Summerland, British Columbia",1
+188,"Teulon, Manitoba",1
+189,"Thunder Bay, Ontario",7
+190,"Tillsonburg, Ontario",1
+191,"Tofino, British Columbia",1
+192,"Toronto, Ontario",42
+193,"Trochu, Alberta",1
+194,"Trois-Rivières, Quebec",3
+195,"Val d'Or, Quebec",1
+196,"Vancouver, British Columbia",10
+197,"Vegreville, Alberta",1
+198,"Vernon, British Columbia",1
+199,"VictorIa, British Columbia",1
+200,"Victoria, British Columbia",7
+201,"Victoriaville, Quebec",2
+202,"Ville Marie, Quebec",1
+203,"Vilna, Alberta",1
+204,"Wainwright, Alberta",1
+205,"Walkerville, Ontario",1
+206,"Waterloo, Ontario",1
+207,"Waterloo, Quebec",1
+208,"Westlock, Alberta",1
+209,"Wetaskiwin, Alberta",1
+210,"Weyburn, Saskachewan",1
+211,"Weyburn, Saskatchewan",1
+212,"Whitby, Ontario",2
+213,"Wilberforce, Ontario",1
+214,"Williamsburg, Ontario",1
+215,"Willingdon, Alberta",1
+216,"Windsor, Ontario",6
+217,"Winnipeg, Manitoba",17
+218,"Winnipeg, Manitobas",1
+219,"Woodstock, Ontario",2
+220,"York Factory, Manitoba",1
+221,"Yorkton, Saskatchewan",2
+222,"Yukon, Territories",1
