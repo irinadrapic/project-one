@@ -1,6 +1,12 @@
 # Health Disparities in Canadian Cities
-In this project we will look to answer the question of: Is geographical location a determinant of health in Canda?
+In this project we work towards indentifying if geographical location is a determinant of health in Canada. To come to our conclusion we are investigating the different factors that drive the differences in the mortality rates accross the cities in Canada. We will put a primary focus on the differences in:
+•	Health Behaviours
+• Health Care Access
+• Socioeconomic Status
 
-![alt text](desktop/Internet-of-Things_The-Digital-Future-of-Value-based-Care.png)
+# # Data Used
 
-To answer this question we conducted research and analysis on how different health behaviours vary accrosss Canada, and if the 
+-How did we analyse it and assumptions
+
+
+
